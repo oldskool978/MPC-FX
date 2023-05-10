@@ -4,9 +4,9 @@ Current Gen MPC Master settings for MPC60 like sonics
 Step 1:
 Get into your inserts menu.
 
-<img src="https://github.com/oldskool978/MPC-FX/blob/main/.Assetts/Screenshot%20(286).png" alt="Step1" style="max-height: 50px;">
+<img src="https://github.com/oldskool978/MPC-FX/blob/main/.Assetts/Screenshot%20(286).png" alt="Step1" height ="345.5">
 
 Step 2:
 Push the folder as shown here, then find and load the FX preset.
 
-<img src="https://github.com/oldskool978/MPC-FX/blob/main/.Assetts/Screenshot%20(288).png" alt="Step1" style="max-height: 50px;">
+<img src="https://github.com/oldskool978/MPC-FX/blob/main/.Assetts/Screenshot%20(288).png" alt="Step1" height="347.666">
