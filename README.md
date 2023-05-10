@@ -15,5 +15,5 @@ https://www.youtube.com/watch?v=Ypvipgu2n6s
 # WHO
 The community, everyone with an MPC could participate in his or her way, your data is welcomed here
 
-# What to epect
+# What to expect
 Eventually, we will get it right, until then, we'll get it how we can. 
