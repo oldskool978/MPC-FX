@@ -10,7 +10,7 @@ Side by side comparisons and source material will contopusely be gathered in an 
 
 # WHY
 You could hear why, it seems a worthwhile endeavor  
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Ypvipgu2n6s" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=Ypvipgu2n6s
 
 # WHO
 The community, everyone with an MPC could participate in his or her way, your data is welcomed here
